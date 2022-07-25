@@ -12,7 +12,7 @@
 
 [경기대학교 AI컴퓨터공학부 인공지능전공](http://ai/kyonggi.ac.kr)
 
-[경기대학교 소프트웨어중심대학 SWAIG](http://swaig.kyonggi.ac.kr)
+[경기대학교 소프트웨어중심대학 SWAIG](http://swaig.kyonggi.ac.kr:8080)
     
     
 <h3>💻 History 💻</h3>
