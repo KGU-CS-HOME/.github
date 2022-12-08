@@ -10,9 +10,9 @@
 
 [경기대학교 AI컴퓨터공학부 컴퓨터공학전공](http://cs.kyonggi.ac.kr) (2018.3 ~ )
 
-[경기대학교 AI컴퓨터공학부 인공지능전공](http://ai/kyonggi.ac.kr) (2021.2 ~ )
+[경기대학교 AI컴퓨터공학부 인공지능전공](http://ai.kyonggi.ac.kr) (2021.2 ~ )
 
-[경기대학교 소프트웨어중심대학 SWAIG](https://github.com/KGU-CS-HOME/webp2021) (2021.8 ~ )
+[경기대학교 소프트웨어중심대학 SWAIG](http://swaig.kyonggi.ac.kr:8080) (2021.8 ~ )
     
     
 <h3>💻 History 💻</h3>
@@ -46,7 +46,7 @@
     
     
     
-<h3>💻 Tech Stack 💻</h3>
+<h3>💻 Tech 💻</h3>
     
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     
