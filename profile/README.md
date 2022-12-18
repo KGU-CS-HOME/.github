@@ -4,6 +4,7 @@
 <h3>경기대학교 AI컴퓨터공학부 홈페이지 개발팀</h3>
 <h1>CS-HOME</h1>
 
+[Discussion](https://github.com/orgs/KGU-CS-HOME/discussions)이 오픈되었습니다.
 
 <h3>💻 Services 💻</h3>
 
