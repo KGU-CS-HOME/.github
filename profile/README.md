@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
 <div align = "center">
-    <h3>경기대학교 AI컴퓨터공학부 학과홈페이지 개발팀</h3>
-    <h3>CS-HOME</h3>
+<h3>경기대학교 AI컴퓨터공학부 홈페이지 개발팀</h3>
+<h1>CS-HOME</h1>
 
    
 
@@ -18,8 +18,8 @@
 <h3>💻 History 💻</h3>
 
 <details>
-    <summary><h4> 2017~2019 </h4></summary>
-ㅇㅇ
+<summary><h4> 2017~2019 </h4></summary>
+
 </details>
 
 <details>
