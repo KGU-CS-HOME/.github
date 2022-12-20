@@ -19,7 +19,7 @@
 
 <details>
 <summary><h4> 2017~2019 </h4></summary>
-
+**2018.03** 경기대학교 컴퓨터과학과 공식 홈페이지 개설
 </details>
 
 <details>
@@ -59,11 +59,10 @@
 | ?? | 3기 | 2019.01 ~ 2019.03 | 이종훈 | 17 | ?? |
 | ?? | 3기 | 2019.01 ~ 2019.03 | 최동주 | 17 | ?? |
 | ?? | 4기 | 2020.01 ~ 2020.03 | 김주형 | 15 | [@i009727](https://github.com/i009727) |
-| 팀장 | 5기 | 2020.10 ~ 2021.03 | 윤주현 | 17 | [@gabrielyoon7](https://github.com/gabrielyoon7) |
-| 팀원 | 5기 | 2020.10 ~ 2021.03 | 박민수 | 16 | [@minsu-zip](https://github.com/minsu-zip) |
-| 팀원 | 5기 | 2020.10 ~ 2021.03 | 이석근 | 16 | [@leesg619](https://github.com/leesg619) |
-| 팀원 | 5기 | 2020.10 ~ 2021.03 | 박채영 | 19 | [@ch-0012](https://github.com/ch-0012) |
-| 팀장 | 6기 | 2021.03 ~ 2021.12 | 윤주현 | 17 | [@gabrielyoon7](https://github.com/gabrielyoon7) |
+| 팀장 | 5,6기 | 2020.10 ~ 2022.02 | 윤주현 | 17 | [@gabrielyoon7](https://github.com/gabrielyoon7) |
+| 팀원 | 5기 | 2020.10 ~ 2021.02 | 박민수 | 16 | [@minsu-zip](https://github.com/minsu-zip) |
+| 팀원 | 5기 | 2020.10 ~ 2021.02 | 이석근 | 16 | [@leesg619](https://github.com/leesg619) |
+| 팀원 | 5기 | 2020.10 ~ 2021.02 | 박채영 | 19 | [@ch-0012](https://github.com/ch-0012) |
 | 팀원 | 6기 | 2021.03 ~ 2021.08 | 박의진 | 19 | [@jinny-park](https://github.com/jinny-park) |
 | 팀원 | 6기 | 2021.03 ~ 2021.12 | 박선애 | 19 | [@SeonaePark](https://github.com/SeonaePark) |
 | 팀원 | 6기 | 2021.03 ~ 2021.12 | 박소영 | 19 | [@soyoung125](https://github.com/soyoung125) |
