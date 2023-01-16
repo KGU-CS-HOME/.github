@@ -81,9 +81,9 @@
 | 팀원 | 6기 | 2021.03 ~ 2021.12 | 박소영 | 19 | [@soyoung125](https://github.com/soyoung125) |
 | 팀원 | 6기 | 2021.07 ~ 2021.12 | 김가영 | 19 | [@gykim0923](https://github.com/gykim0923) |
 | 팀장 | 7기 | 2022.01 ~ | 함현준 | 18 | [@hyunjun003](https://github.com/hyunjun003) |
-| 팀원 | 7기 | 2022.01 ~ | 남진수 | 18 | [@wwwls99](https://github.com/wwwls99) |
-| 팀원 | 7기 | 2022.01 ~ | 김도희 | 20 | [@hido02](https://github.com/hido02) |
-| 팀원 | 7기 | 2022.01 ~ | 김세은 | 20 | [@seeun01](https://github.com/seeun01) |
+| 팀원 | 7기 | 2022.01 ~ 2022.12 | 남진수 | 18 | [@wwwls99](https://github.com/wwwls99) |
+| 팀원 | 7기 | 2022.01 ~ 2022.12 | 김도희 | 20 | [@hido02](https://github.com/hido02) |
+| 팀원 | 7기 | 2022.01 ~ 2022.12 | 김세은 | 20 | [@seeun01](https://github.com/seeun01) |
 | 팀원 | 8기 | 2023.01 ~ | 김관식 | 19 | [@gwansikk](https://github.com/gwansikk) |
 | 팀원 | 8기 | 2023.01 ~ | 선우재호 | 19 | [@SunwooJaeho](https://github.com/SunwooJaeho) |
 | 팀원 | 8기 | 2023.01 ~ | 조성원 | 19 | [@wontory](https://github.com/wontory) |
