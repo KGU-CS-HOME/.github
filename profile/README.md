@@ -1,6 +1,6 @@
 <div align = "center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=230&text=CS-HOME&desc=경기대학교%20AI컴퓨터공학부%20홈페이지%20개발팀&fontSize=60&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/KGU-CS-HOME)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=230&text=CS-HOME&desc=경기대학교%20AI컴퓨터공학부%20홈페이지%20개발팀&fontSize=60&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/KGU-CS-HOME)  
 🎉&nbsp; [Discussion](https://github.com/orgs/KGU-CS-HOME/discussions)이 오픈되었습니다.
 
 &nbsp;
@@ -11,7 +11,7 @@
 [경기대학교 AI컴퓨터공학부 인공지능전공](http://ai.kyonggi.ac.kr) (2021.2 ~ )  
 [경기대학교 소프트웨어중심대학 SWAIG](http://swaig.kyonggi.ac.kr:8080) (2021.8 ~ )  
 
-&nbsp;  
+&nbsp;
 
 ### 🕒&nbsp; History
 
@@ -40,7 +40,7 @@
 [2023.01] 경기대학교 컴퓨터공학부 CS-HOME 8기 활동 시작
 </details>   
 
-&nbsp;  
+&nbsp;
 
 ### 👨‍👩‍👧‍👦&nbsp; Credits
 
@@ -76,7 +76,7 @@
 | 팀원 | 8기 | 2023.01 ~ | 조성원 | 19 | [@wontory](https://github.com/wontory) |
 | 팀원 | 8기 | 2023.01 ~ | 한관희 | 19 | [@limehee](https://github.com/limehee) |
 
-&nbsp;  
+&nbsp;
 
 ### 🛠︎&nbsp; Tech
 
