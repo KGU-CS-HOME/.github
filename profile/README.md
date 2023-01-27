@@ -1,63 +1,50 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
-
 <div align = "center">
-<h3>경기대학교 AI컴퓨터공학부 홈페이지 개발팀</h3>
-<h1>CS-HOME</h1>
 
-[Discussion](https://github.com/orgs/KGU-CS-HOME/discussions)이 오픈되었습니다.
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=230&text=CS-HOME&desc=경기대학교%20AI컴퓨터공학부%20홈페이지%20개발팀&fontSize=60&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/KGU-CS-HOME)
+🎉&nbsp; [Discussion](https://github.com/orgs/KGU-CS-HOME/discussions)이 오픈되었습니다.
 
-<h3>💻 Services 💻</h3>
+&nbsp;
 
-[경기대학교 AI컴퓨터공학부 컴퓨터공학전공](http://cs.kyonggi.ac.kr) (2018.3 ~ )
+### 🚀&nbsp; Services
 
-[경기대학교 AI컴퓨터공학부 인공지능전공](http://ai.kyonggi.ac.kr) (2021.2 ~ )
+[경기대학교 AI컴퓨터공학부 컴퓨터공학전공](http://cs.kyonggi.ac.kr) (2018.3 ~ )  
+[경기대학교 AI컴퓨터공학부 인공지능전공](http://ai.kyonggi.ac.kr) (2021.2 ~ )  
+[경기대학교 소프트웨어중심대학 SWAIG](http://swaig.kyonggi.ac.kr:8080) (2021.8 ~ )  
 
-[경기대학교 소프트웨어중심대학 SWAIG](http://swaig.kyonggi.ac.kr:8080) (2021.8 ~ )
-    
-    
-<h3>💻 History 💻</h3>
+&nbsp;  
+
+### 🕒&nbsp; History
 
 <details>
-<summary><h4> 2017~2020 </h4></summary>
-    
-[2018.03] 경기대학교 컴퓨터과학과 공식 홈페이지 개설
-    
-[2020.10] 경기대학교 컴퓨터공학부 CS-HOME 5기 활동 시작
-    
-</details>
-    
-<details>
-    <summary><h4> 2021 </h4></summary>
-    
-[2021.01] 경기대학교 컴퓨터과학과 홈페이지가 컴퓨터공학전공과 인공지능전공 서비스로 분리
-    
-[2021.03] 경기대학교 컴퓨터공학부 CS-HOME 6기 활동 시작
-    
-[2021.06] 컴퓨터공학부 홈페이지에 사물함 신청 기능 추가
-    
-[2021.08] 경기대학교 소프트웨어중심대학 SWAIG 홈페이지 개설
-    
-[2021.12] 컴퓨터공학부 홈페이지에 졸업 요건 진단 기능 추가
-    
+<summary><strong>&nbsp;2017 ~ 2020</strong></summary>
+[2018.03] 경기대학교 컴퓨터과학과 공식 홈페이지 개설<br>
+[2020.10] 경기대학교 컴퓨터공학부 CS-HOME 5기 활동 시작<br>
 </details>
 
 <details>
-    <summary><h4> 2022 </h4></summary>
-    
+<summary><strong>&nbsp;2021</strong></summary>
+[2021.01] 경기대학교 컴퓨터과학과 홈페이지가 컴퓨터공학전공과 인공지능전공 서비스로 분리<br>
+[2021.03] 경기대학교 컴퓨터공학부 CS-HOME 6기 활동 시작<br>
+[2021.06] 컴퓨터공학부 홈페이지에 사물함 신청 기능 추가<br>
+[2021.08] 경기대학교 소프트웨어중심대학 SWAIG 홈페이지 개설<br>
+[2021.12] 컴퓨터공학부 홈페이지에 졸업 요건 진단 기능 추가<br>
+</details>
+
+<details>
+<summary><strong>&nbsp;2022</strong></summary>
 [2022.01] 경기대학교 컴퓨터공학부 CS-HOME 7기 활동 시작
-    
-</details>   
+</details>
 
 <details>
-    <summary><h4> 2023 </h4></summary>
-    
+<summary><strong>&nbsp;2023</strong></summary>
 [2023.01] 경기대학교 컴퓨터공학부 CS-HOME 8기 활동 시작
-    
 </details>   
 
-<h3>👨‍👩‍👧‍👦 Credits 👦</h3>
-        
-[참여진(세션 미인증 시 재접속 필요함.)](http://cs.kyonggi.ac.kr:8080/webp/madeby.do)
+&nbsp;  
+
+### 👨‍👩‍👧‍👦&nbsp; Credits
+
+[참여진(세션 미인증 시 재접속 필요함.)](http://cs.kyonggi.ac.kr:8080/webp/madeby.do)  
 
 |     | 기수 | 활동기간 | 이름 | 학번 | github |
 |-----|------|---------|------|-----|--------|
@@ -89,17 +76,24 @@
 | 팀원 | 8기 | 2023.01 ~ | 조성원 | 19 | [@wontory](https://github.com/wontory) |
 | 팀원 | 8기 | 2023.01 ~ | 한관희 | 19 | [@limehee](https://github.com/limehee) |
 
-<h3>💻 Tech 💻</h3>
-    
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-    
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-    
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+&nbsp;  
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+### 🛠︎&nbsp; Tech
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+    
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+&nbsp;
+
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&section=footer)](https://github.com/KGU-CS-HOME)
 
 </div>
-
-    
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
