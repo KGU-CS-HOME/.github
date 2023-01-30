@@ -1,6 +1,7 @@
 <div align = "center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=230&text=CS-HOME&desc=경기대학교%20AI컴퓨터공학부%20홈페이지%20개발팀&fontSize=60&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/KGU-CS-HOME)  
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=230&text=CS-HOME&desc=경기대학교%20AI컴퓨터공학부%20홈페이지%20개발팀&fontSize=60&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/KGU-CS-HOME)
+    
 <strong>🎉&nbsp; [Discussion](https://github.com/orgs/KGU-CS-HOME/discussions)이 오픈되었습니다.</strong>
 
 &nbsp;
@@ -82,14 +83,10 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-    
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-    
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 &nbsp;
