@@ -42,10 +42,21 @@
 
 &nbsp;
 
-### 👨‍👩‍👧‍👦&nbsp; Credits
+### 👨‍👩‍👧‍👦&nbsp; Contributors
 
 [참여진(세션 미인증 시 재접속 필요함.)](http://cs.kyonggi.ac.kr:8080/webp/madeby.do)  
-
+  
+|     | 기수 | 활동기간 | 이름 | 학번 | github |
+|-----|------|---------|------|-----|--------|
+| 팀장 | 7기 | 2022.01 ~ | 함현준 | 18 | [@hyunjun003](https://github.com/hyunjun003) |
+| 팀원 | 8기 | 2023.01 ~ | 김관식 | 19 | [@gwansikk](https://github.com/gwansikk) |
+| 팀원 | 8기 | 2023.01 ~ | 선우재호 | 19 | [@SunwooJaeho](https://github.com/SunwooJaeho) |
+| 팀원 | 8기 | 2023.01 ~ | 조성원 | 19 | [@wontory](https://github.com/wontory) |
+| 팀원 | 8기 | 2023.01 ~ | 한관희 | 19 | [@limehee](https://github.com/limehee) |
+  
+<details>
+<summary><strong>&nbsp;Others</strong></summary>
+  
 |     | 기수 | 활동기간 | 이름 | 학번 | github |
 |-----|------|---------|------|-----|--------|
 | ?? | 1기 | 2017(추정) | 김성빈 | 16 | ?? |
@@ -67,14 +78,10 @@
 | 팀원 | 6기 | 2021.03 ~ 2021.12 | 박선애 | 19 | [@SeonaePark](https://github.com/SeonaePark) |
 | 팀원 | 6기 | 2021.03 ~ 2021.12 | 박소영 | 19 | [@soyoung125](https://github.com/soyoung125) |
 | 팀원 | 6기 | 2021.07 ~ 2021.12 | 김가영 | 19 | [@gykim0923](https://github.com/gykim0923) |
-| 팀장 | 7기 | 2022.01 ~ | 함현준 | 18 | [@hyunjun003](https://github.com/hyunjun003) |
 | 팀원 | 7기 | 2022.01 ~ 2022.12 | 남진수 | 18 | [@wwwls99](https://github.com/wwwls99) |
 | 팀원 | 7기 | 2022.01 ~ 2022.12 | 김도희 | 20 | [@hido02](https://github.com/hido02) |
 | 팀원 | 7기 | 2022.01 ~ 2022.12 | 김세은 | 20 | [@seeun01](https://github.com/seeun01) |
-| 팀원 | 8기 | 2023.01 ~ | 김관식 | 19 | [@gwansikk](https://github.com/gwansikk) |
-| 팀원 | 8기 | 2023.01 ~ | 선우재호 | 19 | [@SunwooJaeho](https://github.com/SunwooJaeho) |
-| 팀원 | 8기 | 2023.01 ~ | 조성원 | 19 | [@wontory](https://github.com/wontory) |
-| 팀원 | 8기 | 2023.01 ~ | 한관희 | 19 | [@limehee](https://github.com/limehee) |
+</details>
 
 &nbsp;
 
@@ -85,7 +92,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
