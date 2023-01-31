@@ -48,7 +48,7 @@
   
 |     | 기수 | 활동기간 | 이름 | 학번 | github |
 |-----|------|---------|------|-----|--------|
-| 팀장 | 7기 | 2022.01 ~ | 함현준 | 18 | [@hyunjun003](https://github.com/hyunjun003) |
+| 팀장 | 7, 8기 | 2022.01 ~ | 함현준 | 18 | [@hyunjun003](https://github.com/hyunjun003) |
 | 팀원 | 8기 | 2023.01 ~ | 김관식 | 19 | [@gwansikk](https://github.com/gwansikk) |
 | 팀원 | 8기 | 2023.01 ~ | 선우재호 | 19 | [@SunwooJaeho](https://github.com/SunwooJaeho) |
 | 팀원 | 8기 | 2023.01 ~ | 조성원 | 19 | [@wontory](https://github.com/wontory) |
@@ -70,7 +70,7 @@
 | ?? | 3기 | 2019.01 ~ 2019.03 | 이종훈 | 17 | ?? |
 | ?? | 3기 | 2019.01 ~ 2019.03 | 최동주 | 17 | ?? |
 | ?? | 4기 | 2020.01 ~ 2020.03 | 김주형 | 15 | [@i009727](https://github.com/i009727) |
-| 팀장 | 5,6기 | 2020.10 ~ 2022.02 | 윤주현 | 17 | [@gabrielyoon7](https://github.com/gabrielyoon7) |
+| 팀장 | 5, 6기 | 2020.10 ~ 2022.02 | 윤주현 | 17 | [@gabrielyoon7](https://github.com/gabrielyoon7) |
 | 팀원 | 5기 | 2020.10 ~ 2021.02 | 박민수 | 16 | [@minsu-zip](https://github.com/minsu-zip) |
 | 팀원 | 5기 | 2020.10 ~ 2021.02 | 이석근 | 16 | [@leesg619](https://github.com/leesg619) |
 | 팀원 | 5기 | 2020.10 ~ 2021.02 | 박채영 | 19 | [@ch-0012](https://github.com/ch-0012) |
