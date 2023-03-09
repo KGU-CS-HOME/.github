@@ -49,9 +49,9 @@
 |     | 기수 | 활동기간 | 이름 | 학번 | github |
 |-----|------|---------|------|-----|--------|
 | 팀장 | 7, 8기 | 2022.01 ~ | 함현준 | 18 | [@hyunjun003](https://github.com/hyunjun003) |
+| 팀장 | 8기 | 2023.01 ~ | 조성원 | 19 | [@wontory](https://github.com/wontory) |
 | 팀원 | 8기 | 2023.01 ~ | 김관식 | 19 | [@gwansikk](https://github.com/gwansikk) |
 | 팀원 | 8기 | 2023.01 ~ | 선우재호 | 19 | [@SunwooJaeho](https://github.com/SunwooJaeho) |
-| 팀원 | 8기 | 2023.01 ~ | 조성원 | 19 | [@wontory](https://github.com/wontory) |
 | 팀원 | 8기 | 2023.01 ~ | 한관희 | 19 | [@limehee](https://github.com/limehee) |
   
 <details>
