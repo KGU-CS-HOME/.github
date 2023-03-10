@@ -1,6 +1,6 @@
 <div align = "center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=230&text=CS-HOME&desc=경기대학교%20AI컴퓨터공학부%20홈페이지%20개발팀&fontSize=60&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55&color=timeAuto)](https://github.com/KGU-CS-HOME)  
+[![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&animation=fadeIn&height=230&text=CS-HOME&desc=경기대학교%20AI컴퓨터공학부%20홈페이지%20개발팀&fontSize=60&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/KGU-CS-HOME)  
 <strong>🎉&nbsp; [Discussion](https://github.com/orgs/KGU-CS-HOME/discussions)이 오픈되었습니다.</strong>
 
 &nbsp;
@@ -98,6 +98,6 @@
 
 &nbsp;
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&section=foote&color=timeAutor)](https://github.com/KGU-CS-HOME)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&animation=fadeIn&section=footer)](https://github.com/KGU-CS-HOME)
 
 </div>
