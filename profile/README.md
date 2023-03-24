@@ -79,7 +79,7 @@
 | 팀원 | 6기 | 2021.03 ~ 2021.12 | 박선애 | 19 | [@SeonaePark](https://github.com/SeonaePark) |
 | 팀원 | 6기 | 2021.03 ~ 2021.12 | 박소영 | 19 | [@soyoung125](https://github.com/soyoung125) |
 | 팀원 | 6기 | 2021.07 ~ 2021.12 | 김가영 | 19 | [@gykim0923](https://github.com/gykim0923) |
-| 팀원 | 7기 | 2022.01 ~ 2022.12 | 남진수 | 18 | [@wwwls99](https://github.com/wwwls99) |
+| 팀원 | 7기 | 2022.01 ~ 2022.12 | 남진수 | 18 | [@wlstnam](https://github.com/wlstnam) |
 | 팀원 | 7기 | 2022.01 ~ 2022.12 | 김도희 | 20 | [@hido02](https://github.com/hido02) |
 | 팀원 | 7기 | 2022.01 ~ 2022.12 | 김세은 | 20 | [@seeun01](https://github.com/seeun01) |
 </details>
