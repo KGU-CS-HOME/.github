@@ -54,6 +54,8 @@
 | 팀원 | 8기 | 2023.01 ~ | 김관식 | 19 | [@gwansikk](https://github.com/gwansikk) |
 | 팀원 | 8기 | 2023.01 ~ | 선우재호 | 19 | [@SunwooJaeho](https://github.com/SunwooJaeho) |
 | 팀원 | 8기 | 2023.01 ~ | 한관희 | 19 | [@limehee](https://github.com/limehee) |
+| 팀원 | 8기 | 2023.03 ~ | 강민하 | 19 | [@m2na7](https://github.com/m2na7) |
+| 팀원 | 8기 | 2023.03 ~ | 박민준 | 19 | [@minjo-on](https://github.com/minjo-on) |
   
 <details>
 <summary><strong>&nbsp;Others</strong></summary>
