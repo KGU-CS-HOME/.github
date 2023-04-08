@@ -45,7 +45,8 @@
 
 ### 👨‍👩‍👧‍👦&nbsp; Contributors
 
-[참여진(세션 미인증 시 재접속 필요함.)](http://cs.kyonggi.ac.kr:8080/webp/madeby.do)  
+[CS 참여진(세션 미인증 시 재접속 필요함.)](http://cs.kyonggi.ac.kr:8080/webp/madeby.do)  
+[SWAIG 참여진](http://swaig.kyonggi.ac.kr/madeby.kgu)
   
 |     | 기수 | 활동기간 | 이름 | 학번 | github |
 |-----|------|---------|------|-----|--------|
