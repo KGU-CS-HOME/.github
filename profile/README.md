@@ -45,7 +45,7 @@
 
 ### 👨‍👩‍👧‍👦&nbsp; Contributors
 
-[CS 참여진](http://cs.kyonggi.ac.kr:8080/webp/madeby.do)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SWAIG 참여진](http://swaig.kyonggi.ac.kr/madeby.kgu)
+[CS 참여진()](http://cs.kyonggi.ac.kr:8080/webp/madeby.do)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SWAIG 참여진](http://swaig.kyonggi.ac.kr/madeby.kgu)
   
 |     | 기수 | 활동기간 | 이름 | 학번 | github |
 |-----|------|---------|------|-----|--------|
