@@ -39,6 +39,7 @@
 <details>
 <summary><strong>&nbsp;2023</strong></summary>
 [2023.01] 경기대학교 컴퓨터공학부 CS-HOME 8기 활동 시작
+[2023.10] 컴퓨터공학부 팀프로젝트실 예약 시스템 제작
 </details>   
 
 &nbsp;
