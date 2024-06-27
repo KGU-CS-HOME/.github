@@ -54,6 +54,7 @@
 | 팀원 | 8기 | 2023.01 ~ | 선우재호 | 19 | [@SunwooJaeho](https://github.com/SunwooJaeho) |
 | 팀원 | 8기 | 2023.03 ~ | 강민하 | 19 | [@m2na7](https://github.com/m2na7) |
 | 팀원 | 8기 | 2023.03 ~ | 박민준 | 19 | [@minjo-on](https://github.com/minjo-on) |
+| 팀원 | 9기 | 2024.03 ~ | 이신행 | 19 | [@LeeShinHaeng](https://github.com/LeeShinHaeng)
   
 <details>
 <summary><strong>&nbsp;Others</strong></summary>
